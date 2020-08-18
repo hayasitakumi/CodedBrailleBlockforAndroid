@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CodedBrailleBlockforAndroid.iml" filepath="$PROJECT_DIR$/.idea/CodedBrailleBlockforAndroid.iml" group="CodedBrailleBlockforAndroid" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="CodedBrailleBlockforAndroid/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libuvccamera-release/libuvccamera-release.iml" filepath="$PROJECT_DIR$/.idea/modules/libuvccamera-release/libuvccamera-release.iml" group="CodedBrailleBlockforAndroid/libuvccamera-release" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCV401/openCV401.iml" filepath="$PROJECT_DIR$/.idea/modules/openCV401/openCV401.iml" group="CodedBrailleBlockforAndroid/openCV401" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usbCameraCommon-release/usbCameraCommon-release.iml" filepath="$PROJECT_DIR$/.idea/modules/usbCameraCommon-release/usbCameraCommon-release.iml" group="CodedBrailleBlockforAndroid/usbCameraCommon-release" />
     </modules>
   </component>
 </project>

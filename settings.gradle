@@ -1,2 +1,2 @@
-include ':app', 'openCV401'
+include ':app', 'openCV401' , ':libuvccamera-release' , ':usbCameraCommon-release'
 rootProject.name='CodedBrailleBlockforAndroid'

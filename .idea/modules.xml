@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodedBrailleBlockforAndroid.iml" filepath="$PROJECT_DIR$/.idea/CodedBrailleBlockforAndroid.iml" group="CodedBrailleBlockforAndroid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="CodedBrailleBlockforAndroid/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCV401/openCV401.iml" filepath="$PROJECT_DIR$/.idea/modules/openCV401/openCV401.iml" group="CodedBrailleBlockforAndroid/openCV401" />
+    </modules>
+  </component>
+</project>

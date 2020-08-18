@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/home/syabon/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+    "/home/syabon/Documents/Research/CodedBrailleBlockforAndroid/app/src/main/cpp/CMakeLists.txt",
+    "/home/syabon/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/syabon/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/syabon/Documents/Research/CodedBrailleBlockforAndroid/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/syabon/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/syabon/Documents/Research/CodedBrailleBlockforAndroid/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "/home/syabon/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/syabon/Documents/Research/CodedBrailleBlockforAndroid/app/.cxx/cmake/debug/x86_64\" native-lib",
+      "abi": "x86_64",
+      "output": "/home/syabon/Documents/Research/CodedBrailleBlockforAndroid/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so",
+      "runtimeFiles": [
+        "/home/syabon/Documents/Research/CodedBrailleBlockforAndroid/app/src/main/jniLibs/x86_64/libopencv_java4.so"
+      ]
+    }
+  }
+}

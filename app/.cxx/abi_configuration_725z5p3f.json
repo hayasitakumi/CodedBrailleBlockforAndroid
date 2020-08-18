@@ -1,0 +1,9 @@
+{
+  "allAbis": [
+    "x86_64",
+    "armeabi-v8a"
+  ],
+  "validAbis": [
+    "X86_64"
+  ]
+}

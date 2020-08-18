@@ -21,7 +21,7 @@ ANDROID_ABI:UNINITIALIZED=x86_64
 ANDROID_NDK:UNINITIALIZED=/home/syabon/Android/Sdk/ndk/21.3.6528147
 
 //No help, variable specified on the command line.
-ANDROID_PLATFORM:UNINITIALIZED=android-24
+ANDROID_PLATFORM:UNINITIALIZED=android-18
 
 //No help, variable specified on the command line.
 CMAKE_ANDROID_ARCH_ABI:UNINITIALIZED=x86_64
@@ -202,7 +202,7 @@ CMAKE_STRIP:FILEPATH=/home/syabon/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/p
 CMAKE_SYSTEM_NAME:UNINITIALIZED=Android
 
 //No help, variable specified on the command line.
-CMAKE_SYSTEM_VERSION:UNINITIALIZED=24
+CMAKE_SYSTEM_VERSION:UNINITIALIZED=18
 
 //The CMake toolchain file
 CMAKE_TOOLCHAIN_FILE:FILEPATH=/home/syabon/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake
@@ -220,10 +220,10 @@ Project_BINARY_DIR:STATIC=/home/syabon/Documents/Research/CodedBrailleBlockforAn
 Project_SOURCE_DIR:STATIC=/home/syabon/Documents/Research/CodedBrailleBlockforAndroid/app/src/main/cpp
 
 //Path to a library.
-log-lib:FILEPATH=/home/syabon/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/24/liblog.so
+log-lib:FILEPATH=/home/syabon/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/21/liblog.so
 
 //Dependencies for the target
-native-lib_LIB_DEPENDS:STATIC=general;lib_opencv;general;/home/syabon/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/24/liblog.so;
+native-lib_LIB_DEPENDS:STATIC=general;lib_opencv;general;/home/syabon/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/21/liblog.so;
 
 //No help, variable specified on the command line.
 pathToProject:STRING=/home/syabon/Documents/Research/CodedBrailleBlockforAndroid

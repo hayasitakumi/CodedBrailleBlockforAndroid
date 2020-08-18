@@ -5,12 +5,12 @@ apply plugin: 'kotlin-kapt'
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion '29.0.2'
+    compileSdkVersion versionCompiler
+    buildToolsVersion versionBuildTool
     defaultConfig {
         applicationId defaultApplicationId
-        minSdkVersion 24
-        targetSdkVersion 29
+        minSdkVersion 18
+        targetSdkVersion versionTarget
         versionCode 2
         versionName "1.0_fork2"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -22,9 +22,13 @@ android {
     }
 
     packagingOptions{
+
+//        exclude 'lib/armeabi-v7a/libjpeg-turbo1500.so'
         pickFirst 'lib/arm64-v8a/libopencv_java4.so'
         pickFirst 'lib/x86_64/libopencv_java4.so'
+
     }
+
     buildTypes {
         release {
             minifyEnabled false

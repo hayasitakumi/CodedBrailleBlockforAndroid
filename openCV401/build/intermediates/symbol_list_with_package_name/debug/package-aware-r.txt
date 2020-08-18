@@ -596,6 +596,8 @@ color YELLOW_A070
 color YELLOW_A080
 color YELLOW_A090
 color YELLOW_A100
+color androidx_core_ripple_material_light
+color androidx_core_secondary_text_default_material_light
 color contents_text
 color encode_view
 color notification_action_color_filter

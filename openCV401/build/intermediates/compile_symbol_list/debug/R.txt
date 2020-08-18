@@ -595,6 +595,8 @@ int color YELLOW_A070 0x0
 int color YELLOW_A080 0x0
 int color YELLOW_A090 0x0
 int color YELLOW_A100 0x0
+int color androidx_core_ripple_material_light 0x0
+int color androidx_core_secondary_text_default_material_light 0x0
 int color contents_text 0x0
 int color encode_view 0x0
 int color notification_action_color_filter 0x0

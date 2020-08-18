@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:libuvccamera-release:unspecified@jar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/libuvccamera-release/build/.transforms/9aa3e9cf9f16fc3eea501c1760160170/jetified-libuvccamera-release/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/libuvccamera-release/build/.transforms/9aa3e9cf9f16fc3eea501c1760160170/jetified-libuvccamera-release/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/libuvccamera-release/build/.transforms/9aa3e9cf9f16fc3eea501c1760160170/jetified-libuvccamera-release/res" />
+      <root url="file://$PROJECT_DIR$/libuvccamera-release/build/.transforms/11462871edb71b648372bee667c8628e/jetified-libuvccamera-release/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/libuvccamera-release/build/.transforms/11462871edb71b648372bee667c8628e/jetified-libuvccamera-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/libuvccamera-release/build/.transforms/11462871edb71b648372bee667c8628e/jetified-libuvccamera-release/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

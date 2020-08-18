@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:usbCameraCommon-release:unspecified@jar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/usbCameraCommon-release/build/.transforms/b0775716c4732a8552e7db0299b85043/jetified-usbCameraCommon-release/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/usbCameraCommon-release/build/.transforms/b0775716c4732a8552e7db0299b85043/jetified-usbCameraCommon-release/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/usbCameraCommon-release/build/.transforms/b0775716c4732a8552e7db0299b85043/jetified-usbCameraCommon-release/res" />
+      <root url="file://$PROJECT_DIR$/usbCameraCommon-release/build/.transforms/40353a73ee4e5b9fe133292361c825f3/jetified-usbCameraCommon-release/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/usbCameraCommon-release/build/.transforms/40353a73ee4e5b9fe133292361c825f3/jetified-usbCameraCommon-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/usbCameraCommon-release/build/.transforms/40353a73ee4e5b9fe133292361c825f3/jetified-usbCameraCommon-release/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
